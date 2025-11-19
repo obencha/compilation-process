@@ -1,2 +1,2 @@
 app: main.c
-	gcc main.c -o app
+	gcc main.c -o main
