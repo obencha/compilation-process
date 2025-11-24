@@ -2,3 +2,4 @@ main
 main.i
 main.o
 main.s
+.vscode/*
