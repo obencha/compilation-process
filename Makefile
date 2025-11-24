@@ -1,2 +1,2 @@
 app: main.c
-	gcc main.c -o main
+	gcc -Wall -Wextra -pedantic main.c -o main
